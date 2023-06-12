@@ -76,6 +76,12 @@ In order to run this project you need: to install the PostgreSQL in you local en
 - Twitter: [@uhamzaz](https://twitter.com/uhamzaz)
 - LinkedIn: [Umair Hamza](https://www.linkedin.com/in/umair-hamza-a8262b261/)
 
+👤 **Mussie Kahsay**
+
+- GitHub: [@MussieTeka](https://github.com/MussieTeka)
+- Twitter: [@mussieteka](https://twitter.com/mussieteka)
+- LinkedIn: [@mussieteka](https://linkedin.com/in/mussieteka)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
