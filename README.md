@@ -66,7 +66,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  cd vet-clinic-database
+  cd vet_clinic
   git git@github.com:emhamza/vet_clinic.git
 ```
 ### Install
